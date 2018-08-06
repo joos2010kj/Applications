@@ -1,6 +1,7 @@
 # Applications
+#### TL;DR: Please read this README.md for an overview/description of each app in this repo
 
-This repo holds a collection of applications I have made in JavaScript.
+This repo holds a collection of applications I have made in JavaScript. Most -- if not all -- of the apps I have made in JavaScript use p5.js library. 
 
 ### JAVASCRIPT
 
