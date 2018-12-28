@@ -50,3 +50,8 @@ This repo holds a collection of applications I have made in JavaScript. Most -- 
       -If you would like to undo your work, press SPACEBAR.
   
     [SCREENSHOT](https://github.com/joos2010kj/Applications/blob/master/Applications/JavsScript/Painter/Screen%20Shot/SS.png)
+
+5. [Christmas Evergreen](https://github.com/joos2010kj/Applications/tree/master/Applications/JavsScript/Christmas)
+  - Christmas Evergreen is an evergreen generator. Once generated, it continue to display a picture of the evergreen under the snow.
+  
+    [SCREENSHOT](https://github.com/joos2010kj/Applications/blob/master/Applications/JavsScript/Christmas/Evergreen.png)
